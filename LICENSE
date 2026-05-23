@@ -1,0 +1,33 @@
+# LICENCIA DE USO ACADÉMICO Y RECONOCIMIENTO
+
+**Proyecto:** Resolución y Simulación del Trabajo Práctico Integrador  
+**Asignatura:** Instrumentación y Control de Procesos  
+**Carrera:** Licenciatura en Automatización y Control  
+**Institución:** Universidad Tecnológica Nacional - Facultad Regional Córdoba (UTN FRC)  
+**Autor:** Gonzalo Vera  
+**Año:** 2026  
+
+---
+
+Este proyecto y todo su contenido (código fuente de Jupyter Notebooks, bibliotecas, diagramas, archivos PDF y material complementario) se distribuyen bajo una licencia de **Uso Exclusivamente Académico y con Reconocimiento**.
+
+### Términos de la Licencia
+
+Se otorga permiso gratuito a cualquier persona en el ámbito académico, docente o de investigación para copiar, distribuir, estudiar y modificar este material, sujeto a las siguientes condiciones:
+
+1.  **Reconocimiento y Atribución (Attribution):** Debe dar crédito de manera adecuada al autor original (Gonzalo Vera), indicar si se realizaron cambios y citar la procedencia institucional (Facultad Regional Córdoba, Universidad Tecnológica Nacional) y la carrera (Licenciatura en Automatización y Control).
+2.  **Uso No Comercial (Non-Commercial):** Este material y cualquier trabajo derivado del mismo se proporcionan exclusivamente para fines educativos, académicos y de estudio personal. No está permitido su uso directo o indirecto con fines comerciales, de lucro o en servicios pagos de asesoría o consultoría.
+3.  **Compartir Igual (ShareAlike):** Si usted altera, transforma o crea un trabajo derivado a partir de este material, debe distribuir el trabajo resultante bajo esta misma licencia o una equivalente.
+
+### Agradecimientos Especiales y Reconocimiento Institucional
+
+Este trabajo práctico ha sido desarrollado en el marco curricular de la **Licenciatura en Automatización y Control** de la **Facultad Regional Córdoba de la Universidad Tecnológica Nacional (UTN FRC)**.
+
+Se hace constar un reconocimiento especial a:
+*   **La Cátedra de Instrumentación y Control de Procesos** de la UTN FRC, por proveer el marco teórico, el modelo matemático de la planta y las directivas de diseño fundamentales que guiaron la realización y verificación de este proyecto.
+
+---
+
+### Exclusión de Garantías
+
+EL SOFTWARE Y LA DOCUMENTACIÓN SE PROPORCIONAN "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR O LA INSTITUCIÓN SERÁN RESPONSABLES POR NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES.

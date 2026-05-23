@@ -49,7 +49,7 @@ El proyecto está organizado en cuatro etapas correlativas de diseño:
 ## 🎯 Especificaciones de Diseño de la Planta
 
 La planta original a controlar es:
-$$ G_p(s) = \frac{s + 40}{s(s + 25)(s + 35)} $$
+$\ G_p(s) = \frac{s + 40}{s(s + 25)(s + 35)} $
 
 El sistema compensado en lazo cerrado con realimentación unitaria debe verificar:
 *   **Coeficiente de amortiguamiento relativo ($\zeta$):** $0.628$
@@ -57,7 +57,7 @@ El sistema compensado en lazo cerrado con realimentación unitaria debe verifica
 *   **Constante de error de velocidad estacionaria ($K_v$):** $3 \text{ rad/s}$
 
 El par de polos dominantes complejos deseados para cumplir con la respuesta transitoria es:
-$$ s_d = -13.3915 \pm j 16.5944 $$
+$\ s_d = -13.3915 \pm j 16.5944 $
 
 ---
 
